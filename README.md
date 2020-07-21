@@ -11,13 +11,8 @@ This is an application that allows users to create new workout plans daily, add 
 ## Table of Contents:
 * [Installation](#installation)
 * [Usage](#usage)
-* [Demonstration](#demonstration)
 * [License](#license)
-* [Contributing](#contributing)
 * [Resources](#resources)
-* [Bug Fixes](#bug-fixes)
-* [Future Development](#future-development)
-
 
 ---
 
